@@ -40,7 +40,7 @@ Screenshots :
 
 - ** Tushar Yadav **
 - **Email**: tusharyadav61900@gmail.com
-- **LinkedIn**: [[Tushar Yadav]]([url](https://www.linkedin.com/in/tushar-yadav-ai/))
+- **LinkedIn**: [[[Tushar Yadav]] ]([url](https://www.linkedin.com/in/tushar-yadav-ai/))
 
 
 
