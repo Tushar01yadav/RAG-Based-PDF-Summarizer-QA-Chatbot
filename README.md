@@ -39,7 +39,7 @@ Screenshots :
 ## Author 
 
 - ** Tushar Yadav **
-- **Email**: tusharyadav61900@gmail.conm
+- **Email**: tusharyadav61900@gmail.com
 - **LinkedIn**: [Tushar Yadav](https://www.linkedin.com/in/tushar-yadav-5829bb353/)
 
 
